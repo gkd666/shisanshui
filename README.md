@@ -6,5 +6,7 @@
 ![](https://img.shields.io/badge/license-MIT-000000.svg)
 
 运行环境：window的浏览器
+
 编译方法：AI.py即后端代码，可用pycharm运行
+
 使用方法：全部下载后，点击 游戏开始界面.html 文件，即可用浏览器运行。
